@@ -4,7 +4,8 @@ I made a datapack to show the lighting level.
 - This datapack is very fine-tuned. 
 - You just need to:
   - install it in your world;
-  - write the command "/trigger light_level.button";
+  - write the command "/reload";
+  - enter the command "/trigger light_level.button";
   - And follow the instructions in the chat.
 
 
